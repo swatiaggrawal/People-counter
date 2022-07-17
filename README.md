@@ -1,2 +1,2 @@
 # fun-counter
-<img src="readmeimg.png" height=90% width=70% align="right">
+<img src="readmeimg.png" height=100% width=100% align="center">
